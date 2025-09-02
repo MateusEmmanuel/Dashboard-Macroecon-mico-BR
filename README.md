@@ -1,2 +1,2 @@
 # Dashboard-Macroecon-mico-BR
-Nesse projeto eu peguei os principais indicadores macroeconômicos do Brasil (PIB, IPCA, Taxa Selic, Taxa de Desemprego e Câmbio) de suas respectivas API's (BACEN e IBGE) e os coloquei em um Dashboard no Streamlit para facilitar a visualização desses dados ao longo do tempo.
+O projeto "Dashboard Macroeconômico BR" é uma ferramenta para visualização dos principais indicadores macroeconômicos do Brasil (PIB, IPCA, Selic, Desemprego e Câmbio). A aplicação busca automaticamente dados de APIs do Banco Central e do IBGE e os exibe em um painel interativo, facilitando o acompanhamento desses indicadores ao longo do tempo.
